@@ -1,0 +1,9 @@
+./build-output/Release/Sample.xcframework/ios-arm64/iOS.framework/iOS: Mach-O 64-bit dynamically linked shared library arm64
+./build-output/Release/Sample.xcframework/ios-x86_64-simulator/iOS.framework/iOS: Mach-O 64-bit dynamically linked shared library x86_64
+./build-output/Release/Sample.xcframework/macos-x86_64/macOS.framework/macOS: Mach-O 64-bit dynamically linked shared library x86_64
+./build-output/Release/Sample.xcframework/tvos-arm64/tvOS.framework/tvOS: Mach-O 64-bit dynamically linked shared library arm64
+./build-output/Release/Sample.xcframework/tvos-x86_64-simulator/tvOS.framework/tvOS: Mach-O 64-bit dynamically linked shared library x86_64
+./build-output/Release/Sample.xcframework/watchos-armv7k_arm64_32/watchOS.framework/watchOS: Mach-O universal binary with 2 architectures: [arm_v7k:Mach-O dynamically linked shared library arm_v7k] [arm64_32_v8:Mach-O dynamically linked shared library arm64_32_v8]
+./build-output/Release/Sample.xcframework/watchos-armv7k_arm64_32/watchOS.framework/watchOS (for architecture armv7k):	Mach-O dynamically linked shared library arm_v7k
+./build-output/Release/Sample.xcframework/watchos-armv7k_arm64_32/watchOS.framework/watchOS (for architecture arm64_32):	Mach-O dynamically linked shared library arm64_32_v8
+./build-output/Release/Sample.xcframework/watchos-i386-simulator/watchOS.framework/watchOS: Mach-O dynamically linked shared library i386

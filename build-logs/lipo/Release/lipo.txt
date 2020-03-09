@@ -1,0 +1,7 @@
+Non-fat file: ./build-output/Release/Sample.xcframework/ios-arm64/iOS.framework/iOS is architecture: arm64
+Non-fat file: ./build-output/Release/Sample.xcframework/ios-x86_64-simulator/iOS.framework/iOS is architecture: x86_64
+Non-fat file: ./build-output/Release/Sample.xcframework/macos-x86_64/macOS.framework/macOS is architecture: x86_64
+Non-fat file: ./build-output/Release/Sample.xcframework/tvos-arm64/tvOS.framework/tvOS is architecture: arm64
+Non-fat file: ./build-output/Release/Sample.xcframework/tvos-x86_64-simulator/tvOS.framework/tvOS is architecture: x86_64
+Architectures in the fat file: ./build-output/Release/Sample.xcframework/watchos-armv7k_arm64_32/watchOS.framework/watchOS are: armv7k arm64_32 
+Non-fat file: ./build-output/Release/Sample.xcframework/watchos-i386-simulator/watchOS.framework/watchOS is architecture: i386
