@@ -1,0 +1,37 @@
+{
+  "iphoneos": {
+    "label": "iOS",
+    "scheme": "iOS",
+    "destination": "generic/platform=iOS"
+  },
+  "iphonesimulator": {
+    "label": "iOS-Simulator",
+    "scheme": "iOS",
+    "destination": "generic/platform=iOS Simulator"
+  },
+  "macosx": {
+    "label": "macOS",
+    "scheme": "macOS",
+    "destination": "generic/platform=macOS"
+  },
+  "appletvos": {
+    "label": "tvOS",
+    "scheme": "tvOS",
+    "destination": "generic/platform=tvOS"
+  },
+  "appletvsimulator": {
+    "label": "tvOS-Simulator",
+    "scheme": "tvOS",
+    "destination": "generic/platform=tvOS Simulator"
+  },
+  "watchos": {
+    "label": "watchOS",
+    "scheme": "watchOS",
+    "destination": "generic/platform=watchOS"
+  },
+  "watchsimulator": {
+    "label": "watchOS-Simulator",
+    "scheme": "watchOS",
+    "destination": "generic/platform=watchOS Simulator"
+  }
+}
