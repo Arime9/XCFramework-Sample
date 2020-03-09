@@ -1,0 +1,147 @@
+./build-output/Release/Sample.xcframework/watchos-i386-simulator/watchOS.framework/watchOS:
+Mach header
+      magic cputype cpusubtype  caps    filetype ncmds sizeofcmds      flags
+ 0xfeedface       7          3  0x00           6    15        708 0x02100085
+Load command 0
+      cmd LC_SEGMENT
+  cmdsize 192
+  segname __TEXT
+   vmaddr 0x00000000
+   vmsize 0x00001000
+  fileoff 0
+ filesize 4096
+  maxprot 0x00000007
+ initprot 0x00000005
+   nsects 2
+    flags 0x0
+Section
+  sectname __text
+   segname __TEXT
+      addr 0x00000fd0
+      size 0x00000000
+    offset 4048
+     align 2^0 (1)
+    reloff 0
+    nreloc 0
+     flags 0x80000400
+ reserved1 0
+ reserved2 0
+Section
+  sectname __const
+   segname __TEXT
+      addr 0x00000fd0
+      size 0x00000030
+    offset 4048
+     align 2^3 (8)
+    reloff 0
+    nreloc 0
+     flags 0x00000000
+ reserved1 0
+ reserved2 0
+Load command 1
+      cmd LC_SEGMENT
+  cmdsize 56
+  segname __LINKEDIT
+   vmaddr 0x00001000
+   vmsize 0x00005000
+  fileoff 4096
+ filesize 18496
+  maxprot 0x00000007
+ initprot 0x00000001
+   nsects 0
+    flags 0x0
+Load command 2
+          cmd LC_ID_DYLIB
+      cmdsize 60
+         name @rpath/watchOS.framework/watchOS (offset 24)
+   time stamp 1 Thu Jan  1 09:00:01 1970
+      current version 1.0.0
+compatibility version 1.0.0
+Load command 3
+            cmd LC_DYLD_INFO_ONLY
+        cmdsize 48
+     rebase_off 0
+    rebase_size 0
+       bind_off 0
+      bind_size 0
+  weak_bind_off 0
+ weak_bind_size 0
+  lazy_bind_off 0
+ lazy_bind_size 0
+     export_off 4096
+    export_size 48
+Load command 4
+     cmd LC_SYMTAB
+ cmdsize 24
+  symoff 4148
+   nsyms 3
+  stroff 4184
+ strsize 68
+Load command 5
+            cmd LC_DYSYMTAB
+        cmdsize 80
+      ilocalsym 0
+      nlocalsym 0
+     iextdefsym 0
+     nextdefsym 2
+      iundefsym 2
+      nundefsym 1
+         tocoff 0
+           ntoc 0
+      modtaboff 0
+        nmodtab 0
+   extrefsymoff 0
+    nextrefsyms 0
+ indirectsymoff 0
+  nindirectsyms 0
+      extreloff 0
+        nextrel 0
+      locreloff 0
+        nlocrel 0
+Load command 6
+     cmd LC_UUID
+ cmdsize 24
+    uuid C504A161-F2BF-39ED-86EF-318FB7581966
+Load command 7
+       cmd LC_BUILD_VERSION
+   cmdsize 32
+  platform 9
+       sdk 6.1
+     minos 6.1
+    ntools 1
+      tool 3
+   version 520.0
+Load command 8
+      cmd LC_SOURCE_VERSION
+  cmdsize 16
+  version 0.0
+Load command 9
+          cmd LC_LOAD_DYLIB
+      cmdsize 52
+         name /usr/lib/libSystem.B.dylib (offset 24)
+   time stamp 2 Thu Jan  1 09:00:02 1970
+      current version 1281.0.0
+compatibility version 1.0.0
+Load command 10
+          cmd LC_RPATH
+      cmdsize 40
+         path @executable_path/Frameworks (offset 12)
+Load command 11
+          cmd LC_RPATH
+      cmdsize 36
+         path @loader_path/Frameworks (offset 12)
+Load command 12
+      cmd LC_FUNCTION_STARTS
+  cmdsize 16
+  dataoff 4144
+ datasize 4
+Load command 13
+      cmd LC_DATA_IN_CODE
+  cmdsize 16
+  dataoff 4148
+ datasize 0
+Load command 14
+      cmd LC_CODE_SIGNATURE
+  cmdsize 16
+  dataoff 4256
+ datasize 18336
