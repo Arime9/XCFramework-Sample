@@ -1,0 +1,21 @@
+{
+  "project" : {
+    "configurations" : [
+      "Debug",
+      "Release"
+    ],
+    "name" : "Sample",
+    "schemes" : [
+      "iOS",
+      "macOS",
+      "tvOS",
+      "watchOS"
+    ],
+    "targets" : [
+      "iOS",
+      "macOS",
+      "tvOS",
+      "watchOS"
+    ]
+  }
+}

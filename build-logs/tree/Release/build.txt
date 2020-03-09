@@ -1,0 +1,159 @@
+./build/Release
+├── Sample-iOS-Simulator.xcarchive
+│   ├── Info.plist
+│   ├── Products
+│   │   └── Library
+│   │       └── Frameworks
+│   │           └── iOS.framework
+│   │               ├── Headers
+│   │               │   └── iOS.h
+│   │               ├── Info.plist
+│   │               ├── Modules
+│   │               │   └── module.modulemap
+│   │               ├── _CodeSignature
+│   │               │   └── CodeResources
+│   │               └── iOS
+│   └── dSYMs
+│       └── iOS.framework.dSYM
+│           └── Contents
+│               ├── Info.plist
+│               └── Resources
+│                   └── DWARF
+│                       └── iOS
+├── Sample-iOS.xcarchive
+│   ├── BCSymbolMaps
+│   │   └── FF4E63B0-7561-39BA-AABC-86C790D038FD.bcsymbolmap
+│   ├── Info.plist
+│   ├── Products
+│   │   └── Library
+│   │       └── Frameworks
+│   │           └── iOS.framework
+│   │               ├── Headers
+│   │               │   └── iOS.h
+│   │               ├── Info.plist
+│   │               ├── Modules
+│   │               │   └── module.modulemap
+│   │               └── iOS
+│   └── dSYMs
+│       └── iOS.framework.dSYM
+│           └── Contents
+│               ├── Info.plist
+│               └── Resources
+│                   └── DWARF
+│                       └── iOS
+├── Sample-macOS.xcarchive
+│   ├── Info.plist
+│   ├── Products
+│   │   └── Library
+│   │       └── Frameworks
+│   │           └── macOS.framework
+│   │               ├── Headers -> Versions/Current/Headers
+│   │               ├── Modules -> Versions/Current/Modules
+│   │               ├── Resources -> Versions/Current/Resources
+│   │               ├── Versions
+│   │               │   ├── A
+│   │               │   │   ├── Headers
+│   │               │   │   │   └── macOS.h
+│   │               │   │   ├── Modules
+│   │               │   │   │   └── module.modulemap
+│   │               │   │   ├── Resources
+│   │               │   │   │   └── Info.plist
+│   │               │   │   ├── _CodeSignature
+│   │               │   │   │   └── CodeResources
+│   │               │   │   └── macOS
+│   │               │   └── Current -> A
+│   │               └── macOS -> Versions/Current/macOS
+│   └── dSYMs
+│       └── macOS.framework.dSYM
+│           └── Contents
+│               ├── Info.plist
+│               └── Resources
+│                   └── DWARF
+│                       └── macOS
+├── Sample-tvOS-Simulator.xcarchive
+│   ├── Info.plist
+│   ├── Products
+│   │   └── Library
+│   │       └── Frameworks
+│   │           └── tvOS.framework
+│   │               ├── Headers
+│   │               │   └── tvOS.h
+│   │               ├── Info.plist
+│   │               ├── Modules
+│   │               │   └── module.modulemap
+│   │               ├── _CodeSignature
+│   │               │   └── CodeResources
+│   │               └── tvOS
+│   └── dSYMs
+│       └── tvOS.framework.dSYM
+│           └── Contents
+│               ├── Info.plist
+│               └── Resources
+│                   └── DWARF
+│                       └── tvOS
+├── Sample-tvOS.xcarchive
+│   ├── BCSymbolMaps
+│   │   └── E6A649EA-DDE9-31C2-8EE2-BF505C781EF9.bcsymbolmap
+│   ├── Info.plist
+│   ├── Products
+│   │   └── Library
+│   │       └── Frameworks
+│   │           └── tvOS.framework
+│   │               ├── Headers
+│   │               │   └── tvOS.h
+│   │               ├── Info.plist
+│   │               ├── Modules
+│   │               │   └── module.modulemap
+│   │               └── tvOS
+│   └── dSYMs
+│       └── tvOS.framework.dSYM
+│           └── Contents
+│               ├── Info.plist
+│               └── Resources
+│                   └── DWARF
+│                       └── tvOS
+├── Sample-watchOS-Simulator.xcarchive
+│   ├── Info.plist
+│   ├── Products
+│   │   └── Library
+│   │       └── Frameworks
+│   │           └── watchOS.framework
+│   │               ├── Headers
+│   │               │   └── watchOS.h
+│   │               ├── Info.plist
+│   │               ├── Modules
+│   │               │   └── module.modulemap
+│   │               ├── _CodeSignature
+│   │               │   └── CodeResources
+│   │               └── watchOS
+│   └── dSYMs
+│       └── watchOS.framework.dSYM
+│           └── Contents
+│               ├── Info.plist
+│               └── Resources
+│                   └── DWARF
+│                       └── watchOS
+└── Sample-watchOS.xcarchive
+    ├── BCSymbolMaps
+    │   ├── 76C30623-D8F3-3F38-BC17-151D23D0E988.bcsymbolmap
+    │   └── C339C2A5-BAB2-3783-ACA2-02FDAEFEE47C.bcsymbolmap
+    ├── Info.plist
+    ├── Products
+    │   └── Library
+    │       └── Frameworks
+    │           └── watchOS.framework
+    │               ├── Headers
+    │               │   └── watchOS.h
+    │               ├── Info.plist
+    │               ├── Modules
+    │               │   └── module.modulemap
+    │               └── watchOS
+    └── dSYMs
+        └── watchOS.framework.dSYM
+            └── Contents
+                ├── Info.plist
+                └── Resources
+                    └── DWARF
+                        └── watchOS
+
+98 directories, 58 files

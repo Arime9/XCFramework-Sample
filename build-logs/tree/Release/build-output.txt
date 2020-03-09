@@ -1,0 +1,77 @@
+./build-output/Release
+└── Sample.xcframework
+    ├── Info.plist
+    ├── ios-arm64
+    │   └── iOS.framework
+    │       ├── Headers
+    │       │   └── iOS.h
+    │       ├── Info.plist
+    │       ├── Modules
+    │       │   └── module.modulemap
+    │       └── iOS
+    ├── ios-x86_64-simulator
+    │   └── iOS.framework
+    │       ├── Headers
+    │       │   └── iOS.h
+    │       ├── Info.plist
+    │       ├── Modules
+    │       │   └── module.modulemap
+    │       ├── _CodeSignature
+    │       │   └── CodeResources
+    │       └── iOS
+    ├── macos-x86_64
+    │   └── macOS.framework
+    │       ├── Headers -> Versions/Current/Headers
+    │       ├── Modules -> Versions/Current/Modules
+    │       ├── Resources -> Versions/Current/Resources
+    │       ├── Versions
+    │       │   ├── A
+    │       │   │   ├── Headers
+    │       │   │   │   └── macOS.h
+    │       │   │   ├── Modules
+    │       │   │   │   └── module.modulemap
+    │       │   │   ├── Resources
+    │       │   │   │   └── Info.plist
+    │       │   │   ├── _CodeSignature
+    │       │   │   │   └── CodeResources
+    │       │   │   └── macOS
+    │       │   └── Current -> A
+    │       └── macOS -> Versions/Current/macOS
+    ├── tvos-arm64
+    │   └── tvOS.framework
+    │       ├── Headers
+    │       │   └── tvOS.h
+    │       ├── Info.plist
+    │       ├── Modules
+    │       │   └── module.modulemap
+    │       └── tvOS
+    ├── tvos-x86_64-simulator
+    │   └── tvOS.framework
+    │       ├── Headers
+    │       │   └── tvOS.h
+    │       ├── Info.plist
+    │       ├── Modules
+    │       │   └── module.modulemap
+    │       ├── _CodeSignature
+    │       │   └── CodeResources
+    │       └── tvOS
+    ├── watchos-armv7k_arm64_32
+    │   └── watchOS.framework
+    │       ├── Headers
+    │       │   └── watchOS.h
+    │       ├── Info.plist
+    │       ├── Modules
+    │       │   └── module.modulemap
+    │       └── watchOS
+    └── watchos-i386-simulator
+        └── watchOS.framework
+            ├── Headers
+            │   └── watchOS.h
+            ├── Info.plist
+            ├── Modules
+            │   └── module.modulemap
+            ├── _CodeSignature
+            │   └── CodeResources
+            └── watchOS
+
+40 directories, 34 files
