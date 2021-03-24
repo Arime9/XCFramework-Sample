@@ -63,7 +63,7 @@
     │       ├── Modules
     │       │   └── module.modulemap
     │       └── watchOS
-    └── watchos-arm64_i386_x86_64-simulator
+    └── watchos-arm64_x86_64-simulator
         └── watchOS.framework
             ├── Headers
             │   └── watchOS.h

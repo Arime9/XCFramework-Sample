@@ -1,7 +1,7 @@
 ./build/Release
 ├── Sample-iOS-Simulator.xcarchive
 │   ├── BCSymbolMaps
-│   │   └── 1A065826-FBB5-3DFC-A08D-C845D70B6883.bcsymbolmap
+│   │   └── 8814AE0B-44DC-340E-B8B1-4105B8ADEA9B.bcsymbolmap
 │   ├── Info.plist
 │   ├── Products
 │   │   └── Library
@@ -24,7 +24,7 @@
 │                       └── iOS
 ├── Sample-iOS.xcarchive
 │   ├── BCSymbolMaps
-│   │   └── 4F2B742A-9C5A-3F67-8CAD-0F570C3B9217.bcsymbolmap
+│   │   └── B2BCFCC4-DA6B-34B9-A8A0-204EB7F2806C.bcsymbolmap
 │   ├── Info.plist
 │   ├── Products
 │   │   └── Library
@@ -76,7 +76,7 @@
 │                       └── macOS
 ├── Sample-tvOS-Simulator.xcarchive
 │   ├── BCSymbolMaps
-│   │   └── ACB722E1-44A0-328D-B314-30539B1A878B.bcsymbolmap
+│   │   └── 2A807E64-A709-3CC8-A3E1-B978BAFAECC1.bcsymbolmap
 │   ├── Info.plist
 │   ├── Products
 │   │   └── Library
@@ -99,7 +99,7 @@
 │                       └── tvOS
 ├── Sample-tvOS.xcarchive
 │   ├── BCSymbolMaps
-│   │   └── 33B1792E-96D0-3CC0-948A-0D96A32D433B.bcsymbolmap
+│   │   └── F8C775B7-215A-3FEF-A1AD-3815DFDCA87A.bcsymbolmap
 │   ├── Info.plist
 │   ├── Products
 │   │   └── Library
@@ -120,7 +120,7 @@
 │                       └── tvOS
 ├── Sample-watchOS-Simulator.xcarchive
 │   ├── BCSymbolMaps
-│   │   └── 6E963919-6D8C-3DDD-A54D-02E2D00544A5.bcsymbolmap
+│   │   └── 7DF759DA-A34E-388A-AB5C-E7E3AEE7564D.bcsymbolmap
 │   ├── Info.plist
 │   ├── Products
 │   │   └── Library
@@ -143,8 +143,8 @@
 │                       └── watchOS
 └── Sample-watchOS.xcarchive
     ├── BCSymbolMaps
-    │   ├── 037C5C64-9A0D-32CA-A685-CF57D8054D08.bcsymbolmap
-    │   └── E29D17C2-9141-3A61-9AFE-399EEB82D902.bcsymbolmap
+    │   ├── 198BD001-160B-32AD-BBF5-18C1F9B9091A.bcsymbolmap
+    │   └── 9ECFF2A2-E7C9-36C4-B5E3-60A00F08A2E6.bcsymbolmap
     ├── Info.plist
     ├── Products
     │   └── Library
