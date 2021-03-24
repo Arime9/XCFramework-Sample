@@ -9,7 +9,7 @@
     │       ├── Modules
     │       │   └── module.modulemap
     │       └── iOS
-    ├── ios-x86_64-simulator
+    ├── ios-arm64_x86_64-simulator
     │   └── iOS.framework
     │       ├── Headers
     │       │   └── iOS.h
@@ -19,7 +19,7 @@
     │       ├── _CodeSignature
     │       │   └── CodeResources
     │       └── iOS
-    ├── macos-x86_64
+    ├── macos-arm64_x86_64
     │   └── macOS.framework
     │       ├── Headers -> Versions/Current/Headers
     │       ├── Modules -> Versions/Current/Modules
@@ -45,7 +45,7 @@
     │       ├── Modules
     │       │   └── module.modulemap
     │       └── tvOS
-    ├── tvos-x86_64-simulator
+    ├── tvos-arm64_x86_64-simulator
     │   └── tvOS.framework
     │       ├── Headers
     │       │   └── tvOS.h
@@ -55,7 +55,7 @@
     │       ├── _CodeSignature
     │       │   └── CodeResources
     │       └── tvOS
-    ├── watchos-armv7k_arm64_32
+    ├── watchos-arm64_32_armv7k
     │   └── watchOS.framework
     │       ├── Headers
     │       │   └── watchOS.h
@@ -63,7 +63,7 @@
     │       ├── Modules
     │       │   └── module.modulemap
     │       └── watchOS
-    └── watchos-i386-simulator
+    └── watchos-arm64_i386_x86_64-simulator
         └── watchOS.framework
             ├── Headers
             │   └── watchOS.h

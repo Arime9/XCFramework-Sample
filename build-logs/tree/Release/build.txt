@@ -1,5 +1,7 @@
 ./build/Release
 ├── Sample-iOS-Simulator.xcarchive
+│   ├── BCSymbolMaps
+│   │   └── 1A065826-FBB5-3DFC-A08D-C845D70B6883.bcsymbolmap
 │   ├── Info.plist
 │   ├── Products
 │   │   └── Library
@@ -22,7 +24,7 @@
 │                       └── iOS
 ├── Sample-iOS.xcarchive
 │   ├── BCSymbolMaps
-│   │   └── FF4E63B0-7561-39BA-AABC-86C790D038FD.bcsymbolmap
+│   │   └── 4F2B742A-9C5A-3F67-8CAD-0F570C3B9217.bcsymbolmap
 │   ├── Info.plist
 │   ├── Products
 │   │   └── Library
@@ -42,6 +44,8 @@
 │                   └── DWARF
 │                       └── iOS
 ├── Sample-macOS.xcarchive
+│   ├── BCSymbolMaps
+│   │   └── 0409E645-FC0B-310E-B15F-6F054A19AB8A.bcsymbolmap
 │   ├── Info.plist
 │   ├── Products
 │   │   └── Library
@@ -71,6 +75,8 @@
 │                   └── DWARF
 │                       └── macOS
 ├── Sample-tvOS-Simulator.xcarchive
+│   ├── BCSymbolMaps
+│   │   └── ACB722E1-44A0-328D-B314-30539B1A878B.bcsymbolmap
 │   ├── Info.plist
 │   ├── Products
 │   │   └── Library
@@ -93,7 +99,7 @@
 │                       └── tvOS
 ├── Sample-tvOS.xcarchive
 │   ├── BCSymbolMaps
-│   │   └── E6A649EA-DDE9-31C2-8EE2-BF505C781EF9.bcsymbolmap
+│   │   └── 33B1792E-96D0-3CC0-948A-0D96A32D433B.bcsymbolmap
 │   ├── Info.plist
 │   ├── Products
 │   │   └── Library
@@ -113,6 +119,8 @@
 │                   └── DWARF
 │                       └── tvOS
 ├── Sample-watchOS-Simulator.xcarchive
+│   ├── BCSymbolMaps
+│   │   └── 6E963919-6D8C-3DDD-A54D-02E2D00544A5.bcsymbolmap
 │   ├── Info.plist
 │   ├── Products
 │   │   └── Library
@@ -135,8 +143,8 @@
 │                       └── watchOS
 └── Sample-watchOS.xcarchive
     ├── BCSymbolMaps
-    │   ├── 76C30623-D8F3-3F38-BC17-151D23D0E988.bcsymbolmap
-    │   └── C339C2A5-BAB2-3783-ACA2-02FDAEFEE47C.bcsymbolmap
+    │   ├── 037C5C64-9A0D-32CA-A685-CF57D8054D08.bcsymbolmap
+    │   └── E29D17C2-9141-3A61-9AFE-399EEB82D902.bcsymbolmap
     ├── Info.plist
     ├── Products
     │   └── Library
@@ -156,4 +164,4 @@
                     └── DWARF
                         └── watchOS
 
-98 directories, 58 files
+102 directories, 62 files
