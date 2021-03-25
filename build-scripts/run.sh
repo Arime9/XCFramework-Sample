@@ -42,7 +42,7 @@ file ./build-output/Release/Sample.xcframework/macos-arm64_x86_64/macOS.framewor
 file ./build-output/Release/Sample.xcframework/tvos-arm64/tvOS.framework/tvOS >> ./build-logs/file/Release/file.txt
 file ./build-output/Release/Sample.xcframework/tvos-arm64_x86_64-simulator/tvOS.framework/tvOS >> ./build-logs/file/Release/file.txt
 file ./build-output/Release/Sample.xcframework/watchos-arm64_32_armv7k/watchOS.framework/watchOS >> ./build-logs/file/Release/file.txt
-file ./build-output/Release/Sample.xcframework/watchos-arm64_x86_64-simulatorwatchOS.framework/watchOS >> ./build-logs/file/Release/file.txt
+file ./build-output/Release/Sample.xcframework/watchos-arm64_x86_64-simulator/watchOS.framework/watchOS >> ./build-logs/file/Release/file.txt
 
 # Output "lipo"
 
