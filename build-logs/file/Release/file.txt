@@ -1,7 +1,15 @@
 ./build-output/Release/Sample.xcframework/ios-arm64/iOS.framework/iOS: Mach-O 64-bit dynamically linked shared library arm64
-./build-output/Release/Sample.xcframework/ios-x86_64-simulator/iOS.framework/iOS: cannot open `./build-output/Release/Sample.xcframework/ios-x86_64-simulator/iOS.framework/iOS' (No such file or directory)
-./build-output/Release/Sample.xcframework/macos-x86_64/macOS.framework/macOS: cannot open `./build-output/Release/Sample.xcframework/macos-x86_64/macOS.framework/macOS' (No such file or directory)
+./build-output/Release/Sample.xcframework/ios-arm64_x86_64-simulator/iOS.framework/iOS: Mach-O universal binary with 2 architectures: [x86_64:Mach-O 64-bit dynamically linked shared library x86_64] [arm64:Mach-O 64-bit dynamically linked shared library arm64]
+./build-output/Release/Sample.xcframework/ios-arm64_x86_64-simulator/iOS.framework/iOS (for architecture x86_64):	Mach-O 64-bit dynamically linked shared library x86_64
+./build-output/Release/Sample.xcframework/ios-arm64_x86_64-simulator/iOS.framework/iOS (for architecture arm64):	Mach-O 64-bit dynamically linked shared library arm64
+./build-output/Release/Sample.xcframework/macos-arm64_x86_64/macOS.framework/macOS: Mach-O universal binary with 2 architectures: [x86_64:Mach-O 64-bit dynamically linked shared library x86_64] [arm64:Mach-O 64-bit dynamically linked shared library arm64]
+./build-output/Release/Sample.xcframework/macos-arm64_x86_64/macOS.framework/macOS (for architecture x86_64):	Mach-O 64-bit dynamically linked shared library x86_64
+./build-output/Release/Sample.xcframework/macos-arm64_x86_64/macOS.framework/macOS (for architecture arm64):	Mach-O 64-bit dynamically linked shared library arm64
 ./build-output/Release/Sample.xcframework/tvos-arm64/tvOS.framework/tvOS: Mach-O 64-bit dynamically linked shared library arm64
-./build-output/Release/Sample.xcframework/tvos-x86_64-simulator/tvOS.framework/tvOS: cannot open `./build-output/Release/Sample.xcframework/tvos-x86_64-simulator/tvOS.framework/tvOS' (No such file or directory)
-./build-output/Release/Sample.xcframework/watchos-armv7k_arm64_32/watchOS.framework/watchOS: cannot open `./build-output/Release/Sample.xcframework/watchos-armv7k_arm64_32/watchOS.framework/watchOS' (No such file or directory)
-./build-output/Release/Sample.xcframework/watchos-i386-simulator/watchOS.framework/watchOS: cannot open `./build-output/Release/Sample.xcframework/watchos-i386-simulator/watchOS.framework/watchOS' (No such file or directory)
+./build-output/Release/Sample.xcframework/tvos-arm64_x86_64-simulator/tvOS.framework/tvOS: Mach-O universal binary with 2 architectures: [x86_64:Mach-O 64-bit dynamically linked shared library x86_64] [arm64:Mach-O 64-bit dynamically linked shared library arm64]
+./build-output/Release/Sample.xcframework/tvos-arm64_x86_64-simulator/tvOS.framework/tvOS (for architecture x86_64):	Mach-O 64-bit dynamically linked shared library x86_64
+./build-output/Release/Sample.xcframework/tvos-arm64_x86_64-simulator/tvOS.framework/tvOS (for architecture arm64):	Mach-O 64-bit dynamically linked shared library arm64
+./build-output/Release/Sample.xcframework/watchos-arm64_32_armv7k/watchOS.framework/watchOS: Mach-O universal binary with 2 architectures: [arm_v7k:Mach-O dynamically linked shared library arm_v7k] [arm64_32_v8:Mach-O dynamically linked shared library arm64_32_v8]
+./build-output/Release/Sample.xcframework/watchos-arm64_32_armv7k/watchOS.framework/watchOS (for architecture armv7k):	Mach-O dynamically linked shared library arm_v7k
+./build-output/Release/Sample.xcframework/watchos-arm64_32_armv7k/watchOS.framework/watchOS (for architecture arm64_32):	Mach-O dynamically linked shared library arm64_32_v8
+./build-output/Release/Sample.xcframework/watchos-arm64_x86_64-simulatorwatchOS.framework/watchOS: cannot open `./build-output/Release/Sample.xcframework/watchos-arm64_x86_64-simulatorwatchOS.framework/watchOS' (No such file or directory)
