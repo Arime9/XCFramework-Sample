@@ -51,7 +51,7 @@ Section
   sectname __bundle
    segname __LLVM
       addr 0x0000000000004000
-      size 0x0000000000000aa2
+      size 0x0000000000000aa1
     offset 16384
      align 2^0 (1)
     reloff 0
